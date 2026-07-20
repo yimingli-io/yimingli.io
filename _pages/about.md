@@ -28,7 +28,7 @@ Selected Publications:
 
 
 <!-- https://zhihuigao.github.io http://localhost:4000-->
-![image](https://functions-lab.github.io/assets/img/lab/lab_wirelessdt.gif){: style="float: left; margin-top: 1em; margin-right: 1em;  margin-bottom: 1em;" width="200"}
+![image](/images/lab_wirelessdt.gif){: style="float: left; margin-top: 1em; margin-right: 1em;  margin-bottom: 1em;" width="200"}
 Geo2SigMap: High-Fidelity RF Signal Mapping Using Geographic Databases.<br>
   **Yiming Li**, Zeyu Li, Zhihui Gao, Tingjun Chen.<br>
   <i> Proc. IEEE International Symposium on Dynamic Spectrum Access Networks (**DySPAN’24**) </i>, 2024.<br>
