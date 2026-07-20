@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "yimingli-website",
+  "compatibility_date": "2025-07-01",
+  "assets": {
+    "directory": "./_site"
+  },
+  "workers_dev": false, // no *.workers.dev URL; custom domain only
+  "routes": [{ "pattern": "yimingli.io", "custom_domain": true }]
+}
